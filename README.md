@@ -1,4 +1,5 @@
 **KNN Regressor for Diamonds Dataset**:
+Dataset- diamonds.csv
 This project employs a KNN regressor to predict diamond prices from their attributes using the Diamonds dataset. Data preprocessing involves cleaning and encoding categorical variables. The model is built by splitting data into training and testing sets, implementing the regressor, and tuning hyperparameters for optimal performance. Model evaluation includes assessing performance using regression metrics and visualizing actual vs. predicted prices.
 
 **Lunr Search Implementation**:
